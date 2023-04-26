@@ -1,0 +1,13 @@
+@font-face {
+  font-family: DMSerifDisplay;
+  src: url("fonts/DM_Serif_Display/DMSerifDisplay-Regular.ttf");
+}
+
+.bigtext {
+  font-family: DMSerifDisplay;
+  font-size: 29px;
+}
+
+.bg-gray {
+  background-color: #b8b8b8;
+}
