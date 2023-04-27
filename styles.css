@@ -6,8 +6,21 @@
 .bigtext {
   font-family: DMSerifDisplay;
   font-size: 29px;
+  font-weight: 900;
+  font-stretch: ultra-expanded;
+  color: red;
+  -webkit-text-stroke: 0.1px black;
+  /* maybe set back to 
+  text-shadow: 2px 1px #000;
+  */
 }
 
 .bg-gray {
   background-color: #b8b8b8;
 }
+
+.navbar {
+  border-bottom: solid 4px #f00;
+}
+
+/* TODO: style menu items. Maybe red? Definitely a different font/weight */
