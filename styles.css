@@ -24,3 +24,28 @@
 }
 
 /* TODO: style menu items. Maybe red? Definitely a different font/weight */
+
+.page-title {
+  text-align: center;
+  font-family: DMSerifDisplay;
+  color: red;
+  -webkit-text-stroke: 1.7px black;
+  font-size: 70px;
+}
+.card {
+  margin: 20px;
+}
+.fill {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  overflow: hidden;
+}
+.fill img {
+  flex-shrink: 0;
+  min-width: 200px;
+  min-height: 300px;
+}
+h2 {
+  margin-left: 20px;
+}
