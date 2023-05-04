@@ -10,6 +10,9 @@
   --the-black: #000;
 }
 
+/* NOTE: Please only use var(...) to give things colors so we can avoid accidentally using colors */
+/* TODO: style menu items. Maybe red? Definitely a different font/weight */
+
 .bigtext {
   font-family: DMSerifDisplay;
   font-size: 29px;
@@ -17,9 +20,8 @@
   font-stretch: ultra-expanded;
   color: red;
   -webkit-text-stroke: 0.1px var(--the-black);
-  /* maybe set back to 
-  text-shadow: 2px 1px #000;
-  */
+  /* maybe set back to  */
+  /* text-shadow: 2px 1px #000; */
 }
 
 .bg-gray {
@@ -29,8 +31,6 @@
 .navbar {
   border-bottom: solid 4px var(--the-red);
 }
-
-/* TODO: style menu items. Maybe red? Definitely a different font/weight */
 
 header {
   text-align: center;
@@ -42,19 +42,5 @@ header {
 
 .card {
   aspect-ratio: 1/1;
-}
-
-.fill {
-  display: flex;
-  justify-content: center;
-  align-items: center;
-  overflow: hidden;
-}
-
-.fill img {
-  flex-shrink: 0;
-}
-
-.center {
-  justify-content: center;
+  margin-top: 20px;
 }
