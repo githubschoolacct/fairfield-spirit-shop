@@ -1,0 +1,245 @@
+#--------------------------------------------------------------
+[tops.ladies]
+#--------------------------------------------------------------
+
+[tops.ladies."Ladies Drop Tail Crew With Pockets"]
+Name = "Ladies Drop Tail Crew With Pockets"
+ID = "L118"
+Price = 33
+Image = "images/tops/ladies/Drop Tail Crew With Pockets.jpg"
+Stock = "#"
+
+[tops.ladies."Ladies Varsity Crew"]
+Name = "Ladies Varsity Crew"
+ID = "L119"
+Price = 35
+Image = "images/tops/ladies/Varsity Crew.jpg"
+Stock = "#"
+
+[tops.ladies."Ladies Glitter Long Sleeve Stripe"]
+Name = "Ladies Glitter Long Sleeve Stripe"
+ID = "L120"
+Price = 25
+Image = "images/tops/ladies/Glitter Long Sleeve Stripe.jpg"
+Stock = "#"
+
+[tops.ladies."Ladies Glitter Long Sleeve Tunic"]
+Name = "Ladies Glitter Long Sleeve Tunic"
+ID = "L121"
+Price = 22
+Image = "images/tops/ladies/Glitter Long Sleeve Tunic.jpg"
+Stock = "#"
+
+[tops.ladies."Ladies V-neck with Glitter (White)"]
+Name = "Ladies V-neck with Glitter (White)"
+ID = "L104"
+Price = 18
+Image = "images/tops/ladies/V-neck w Glitter (white).jpg"
+Stock = "#"
+
+[tops.ladies."Ladies V-neck with Glitter (Gray)"]
+Name = "Ladies V-neck with Glitter (Gray)"
+ID = "L103"
+Price = 18
+Image = "images/tops/ladies/V-neck w Glitter (gray)"
+Stock = "#"
+
+[tops.ladies." Ladies Cropped Hoodie"]
+Name = " Ladies Cropped Hoodie"
+ID = "L116"
+Price = 18
+Image = "images/tops/ladies/Cropped Hoodie.jpg"
+Stock = "#"
+
+#--------------------------------------------------------------
+[tops.unisex]
+#--------------------------------------------------------------
+
+[tops.unisex."Unisex Long Sleeve T-Shirt (Red)"]
+Name = "Unisex Long Sleeve T-Shirt (Red)"
+ID = "U322"
+Price = 18
+Image = "images/tops/unisex/Long Sleeve T-Shirt (red).jpg"
+Stock = "#"
+
+[tops.unisex."Unisex Full Zip Sweatshirt"]
+Name = "Unisex Full Zip Sweatshirt"
+ID = "U319"
+Price = 38
+Image = "images/tops/unisex/Full zip sweatshirt.jpg"
+Stock = "#"
+
+[tops.unisex."Unisex LS Soft Style Crew Neck (Gray)"]
+Name = "Unisex LS Soft Style Crew Neck (Gray)"
+ID = "U323"
+Price = 20
+Image = "images/tops/unisex/LS Soft Style Crew Neck (gray).jpg"
+Stock = "#"
+
+[tops.unisex."Unisex Badger Ombre"]
+Name = "Unisex Badger Ombre"
+ID = "U324"
+Price = 28
+Image = "images/tops/unisex/Badger Ombre.jpg"
+Stock = "#"
+
+[tops.unisex."Unisex Adidas 1/4 Zip"]
+Name = "Unisex Adidas 1/4 Zip"
+ID = "U325"
+Price = 38
+Image = "images/tops/unisex/Adidas Zip.jpg"
+Stock = "#"
+
+[tops.unisex."Unisex Short Sleeve"]
+Name = "Unisex Short Sleeve"
+ID = "U327"
+Price = 12
+Image = "images/tops/unisex/ Short Sleeve.jpg"
+Stock = "#"
+
+[tops.unisex."Unisex Fairfield Bundle"]
+Name = "Unisex Fairfield Bundle"
+ID = "U326"
+Price = 35
+Image = "images/tops/unisex/Fairfield Bundle.jpg"
+Stock = "#"
+
+[tops.unisex."Unisex Raglan Sleeve"]
+Name = "Unisex Raglan Sleeve"
+ID = "U328"
+Price = 20
+Image = "images/tops/unisex/Raglan Sleeve.jpg"
+Stock = "#"
+
+[tops.unisex."Unisex Long Sleeve T-Shirt (Gray)"]
+Name = "Unisex Long Sleeve T-Shirt (Gray)"
+ID = "U323"
+Price = 12
+Image = "images/tops/unisex/Long Sleeve T-Shirt (gray).jpg"
+Stock = "#"
+
+[tops.unisex."Unisex Short Sleeve T-Shirt"]
+Name = "Unisex Short Sleeve T-Shirt"
+ID = "U313"
+Price = 6
+Image = "images/tops/unisex/Short Sleeve T-Shirt.jpg"
+Stock = "#"
+
+[tops.unisex."Unisex LS Soft Style Crew Neck(White)"]
+Name = "Unisex Short Sleeve T-Shirt(White)"
+ID = "U326"
+Price = 15
+Image = "images/tops/unisex/LS Soft Style Crew Neck (white).jpg"
+Stock = "#"
+
+#--------------------------------------------------------------
+[tops.men]
+#--------------------------------------------------------------
+
+[tops.men."Men's Full Zip Fleece Vest w/ Pockets"]
+Name = "Men's Full Zip Fleece Vest w/ Pockets"
+ID = "M201"
+Price = 25
+Image = "images/tops/men/Full Zip Fleece Vest w Pockets.jpg"
+Stock = "#"
+
+[tops.men."Men's Polo"]
+Name = "Men's Polo"
+ID = "M207"
+Price = 27
+Image = "images/tops/men/ Red, White Stripe w Grey.jpg"
+Stock = "#"
+
+#--------------------------------------------------------------
+[bottoms.ladies]
+#--------------------------------------------------------------
+
+[bottoms.ladies."Ladies Jogger"]
+Name = "Ladies Jogger"
+ID = "L117"
+Price = 18
+Image = "images/bottoms/ladies/Jogger.jpg"
+Stock = "#"
+
+#--------------------------------------------------------------
+[bottoms.unisex]
+#--------------------------------------------------------------
+
+[bottoms.unisex."Unisex Sport-Tek Joggers"]
+Name = "Unisex Sport-Tek Joggers"
+ID = "B401"
+Price = 30
+Image = "images/bottoms/unisex/Sport-Tek Joggers.jpg"
+Stock = "#"
+
+[bottoms.unisex."Unisex Joggers"]
+Name = " Unisex Joggers"
+ID = "B402"
+Price = 25
+Image = "images/bottoms/unisex/Joggers.png"
+Stock = "#"
+
+#--------------------------------------------------------------
+[bottoms.men]
+#--------------------------------------------------------------
+
+#--------------------------------------------------------------
+[accessories_hats]
+#--------------------------------------------------------------
+
+[accessories_hats."Unisex Beanie"]
+Name = "Unisex Beanie"
+ID = "H505"
+Price = 18
+Image = "images/accessories+hats/Beanie.jpg"
+Stock = "#"
+
+[accessories_hats."Baseball Hat (Black/White)"]
+Name = "Baseball Hat (Black/White)"
+ID = "H502"
+Price = 20
+Image = "images/accessories+hats/Baseball Hat (Black).jpg"
+Stock = "#"
+
+[accessories_hats."Baseball Hat (Red/White)"]
+Name = "Baseball Hat (Red/White)"
+ID = "H503"
+Price = 20
+Image = "images/accessories+hats/Baseball Hat (Red).jpg"
+Stock = "#"
+
+[accessories_hats."Large Magnet"]
+Name = "Large Magnet"
+ID = "A601"
+Price = 3
+Image = "images/accessories+hats/Large Magnet.jpg"
+Stock = "#"
+
+[accessories_hats."Small Magnet"]
+Name = "Small Magnet"
+ID = "A600"
+Price = 1
+Image = "images/accessories+hats/Small Magnet.jpg"
+Stock = "#"
+
+[accessories_hats."License Plate Cover"]
+Name = " License Plate Cover"
+ID = "A602"
+Price = 1
+Image = "images/accessories+hats/License Plate Cover.jpg"
+Stock = "#"
+
+[accessories_hats."Lanyard w/ Clip"]
+Name = "Lanyard w/ Clip"
+ID = "A604"
+Price = 5
+Image = "images/accessories+hats/Lanyard w Clip.jpg"
+Stock = "#"
+
+[accessories_hats."Removeable, Vinyl Window Decal"]
+Name = "Removeable, Vinyl Window Decal"
+ID = "A605"
+Price = 3
+Image = "images/accessories+hats/Removeable Vinyl Window Decal.jpg"
+Stock = "#"
+#--------------------------------------------------------------
